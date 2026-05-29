@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi, I'm Yoe Mie 👋
 
 I am an Information Systems student currently working as an IT Support professional with hands-on experience in maintaining and optimizing IT operations. My expertise includes troubleshooting hardware and software issues, managing operational systems, and ensuring system reliability, performance, and efficiency. I have experience providing technical support to users both on-site and remotely, and I am accustomed to working in dynamic operational environments, including international port operations. Through these experiences, I have developed strong problem-solving, communication, and teamwork skills while maintaining a solution-oriented mindset. In addition to my professional experience, I am continuously expanding my knowledge in Information Technology, particularly in system administration, networking, database management, and web development. I am passionate about leveraging technology to improve business processes and contribute meaningful solutions within professional environments.
 
